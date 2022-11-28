@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
-    "start": "PORT=5556 expo start",
+    "start": "PORT=5554 expo start",
     "android": "expo start --android",
     "ios": "expo start --ios",
     "web": "expo start --web"

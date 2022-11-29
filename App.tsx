@@ -3,11 +3,7 @@ import Home from "./src/sreens/Home";
 export default function App() {
   return (
     <>
-      <StatusBar
-        barStyle={"light-content"}
-        backgroundColor="transparent"
-        translucent
-      />
+      <StatusBar barStyle={"light-content"} translucent />
       <Home />
     </>
   );
